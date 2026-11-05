@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+hostelmate.db
+.venv/
+env/
